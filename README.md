@@ -1,2 +1,2 @@
 # Color_Flipper
-generate random number
+generate random color
